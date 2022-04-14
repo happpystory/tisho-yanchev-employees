@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tisho-yanchev-employees/static/css/main.0eccc349.css",
+    "main.js": "/tisho-yanchev-employees/static/js/main.a57683d5.js",
+    "index.html": "/tisho-yanchev-employees/index.html",
+    "main.0eccc349.css.map": "/tisho-yanchev-employees/static/css/main.0eccc349.css.map",
+    "main.a57683d5.js.map": "/tisho-yanchev-employees/static/js/main.a57683d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0eccc349.css",
+    "static/js/main.a57683d5.js"
+  ]
+}
